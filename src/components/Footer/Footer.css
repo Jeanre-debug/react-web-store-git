@@ -1,0 +1,31 @@
+.site-footer {
+    padding: 2rem 0;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .footer-links li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-links a {
+    color: #adb5bd;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  .footer-links a:hover {
+    color: #fff;
+  }
+  
+  .footer-text {
+    color: #adb5bd;
+  }
+  
+  .copyright {
+    margin-bottom: 0;
+    color: #adb5bd;
+  }

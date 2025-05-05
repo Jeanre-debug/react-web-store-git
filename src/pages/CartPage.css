@@ -1,0 +1,28 @@
+.empty-cart {
+    max-width: 600px;
+    margin: 2rem auto;
+  }
+  
+  .empty-cart-icon {
+    font-size: 4rem;
+    color: #dee2e6;
+    margin-bottom: 1rem;
+  }
+  
+  .secure-checkout {
+    background-color: #f8f9fa;
+    border-left: 4px solid #28a745;
+  }
+  -options {
+    margin-bottom: 2rem;
+  }
+  
+  .shipping-option {
+    transition: background-color 0.2s;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .shipping-option:hover {
+    background-color: #f8f9fa;
+  }

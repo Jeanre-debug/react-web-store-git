@@ -1,0 +1,18 @@
+.shipping-name {
+    font-weight: 500;
+  }
+  
+  .shipping-description {
+    font-size: 0.85rem;
+    color: #6c757d;
+  }
+  
+  .shipping-price {
+    font-weight: 500;
+    font-size: 1.1rem;
+  }
+  
+  .help-btn {
+    color: #007bff;
+    font-size: 0.9rem;
+  }

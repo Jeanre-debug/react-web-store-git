@@ -1,0 +1,25 @@
+.site-header {
+    margin-bottom: 56px;
+  }
+  
+  .cart-icon {
+    position: relative;
+  }
+  
+  .cart-badge {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    font-size: 0.7rem;
+  }
+  
+  .welcome-text {
+    color: #fff;
+    font-weight: 500;
+  }
+  
+  .auth-buttons {
+    display: flex;
+    align-items: center;
+  }
+  

@@ -1,0 +1,17 @@
+.help-intro {
+    border-left: 4px solid #007bff;
+    padding-left: 15px;
+    color: #495057;
+  }
+  
+  .shipping-option-details h5 {
+    color: #007bff;
+    margin-top: 15px;
+  }
+  
+  .contact-info {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
